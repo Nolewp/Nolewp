@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Nolewp
-- 👀 I’m interested in ... Geospatial technology and learning about software development
+- 👀 I’m interested in ... Geospatial technology and learning about software development 
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... anything I suppose
+- <h2> I also like web dev</h2>
+- 
 
 
 <!---
