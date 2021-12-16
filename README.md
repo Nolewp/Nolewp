@@ -1,9 +1,28 @@
-- 👋 Hi, I’m @Nolewp
-- 👀 I’m interested in ... Geospatial technology and learning about software development 
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... anything I suppose
-- <h2> I also like web dev</h2>
-- 
+
+<body>
+    <h1>Hello welcome to my profile!<h1>
+    <h2>lets maps it!</h2>
+    <p>What I currently work in</p>
+    <ul>
+        <li>Python</li>
+        <li>arcpy</li>
+        <li>esri suite</li>
+    </ul>
+    <p>What I am working on improving on</p>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+        <li>Djago</li>
+        <li>Earth Observation ML</li>
+        <li>.Net</li>
+        <li>C#</li>
+    </ul>
+      <p>In the futre I can see myself working as part of a GIS development team creating tools, websites and sciprts to augment geospatial work.</p>
+      <br><br>
+      <p> Want to collaberate on a mapping websitem, arcpy scipt or tool bar shoot me a line!<p>
+</body>
+
 
 
 <!---
