@@ -5,13 +5,14 @@
     <p>What I currently work in</p>
     <ul>
         <li>Python</li>
+        <li>HTML</li>
+        <li>CSS</li>
         <li>arcpy</li>
         <li>esri suite</li>
     </ul>
     <p>What I am working on improving on</p>
     <ul>
-        <li>HTML</li>
-        <li>CSS</li>
+
         <li>JS</li>
         <li>Djago</li>
         <li>Earth Observation ML</li>
