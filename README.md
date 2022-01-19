@@ -18,7 +18,7 @@
         <li>.Net</li>
         <li>C#</li>
     </ul>
-      <p>In the futre I can see myself working as part of a GIS development team creating tools, websites and sciprts to augment geospatial work.</p>
+      <p>In the future I can see myself working as part of a GIS development team creating tools, websites and sciprts to augment geospatial work.</p>
       <br><br>
       <p> Want to collaberate on a mapping websitem, arcpy scipt or tool bar shoot me a line!<p>
 </body>
