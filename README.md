@@ -12,7 +12,6 @@
     </ul>
     <p>What I am working on improving on</p>
     <ul>
-
         <li>JS</li>
         <li>Djago</li>
         <li>Earth Observation ML</li>
