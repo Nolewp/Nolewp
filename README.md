@@ -20,7 +20,7 @@
     </ul>
       <p>In the future I can see myself working as part of a GIS development team creating tools, websites and sciprts to augment geospatial work.</p>
       <br><br>
-      <p> Want to collaberate on a mapping websitem, arcpy scipt or tool bar shoot me a line!<p>
+      <p> Want to collaberate on a mapping website, arcpy scipt or toolbar shoot me a line!<p>
 </body>
 
 
