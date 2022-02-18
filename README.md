@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="style.css">
 <body>
     <h1>Hello welcome to my profile!<h1>
     <h2>lets maps it!</h2>
