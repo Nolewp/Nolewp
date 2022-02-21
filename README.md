@@ -21,10 +21,11 @@
       <p>In the future I can see myself working as part of a GIS development team creating tools, websites and sciprts to augment geospatial work.</p>
       <br><br>
       <p> Want to collaberate on a mapping website, arcpy scipt or toolbar shoot me a line!<p>
+        
+        <div id="earth"></div>
 </body>
 
 
-        <div id="earth"></div>
 
 <!---
 Nolewp/Nolewp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
