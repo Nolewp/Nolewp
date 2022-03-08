@@ -13,7 +13,7 @@
     <p>What I am working on improving on</p>
     <ul>
         <li>JS</li>
-        <li>Djago</li>
+        <li>Django</li>
         <li>Earth Observation ML</li>
         <li>.Net</li>
         <li>C#</li>
