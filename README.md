@@ -4,18 +4,27 @@
     <h2>lets maps it!</h2>
     <p>What I currently work in</p>
     <ul>
-        <li>Python</li>
+        <li>Python
+        <ul>
+            <li> anaconda </li>
+            <li>arcpy</li>
+        </ul>
+        </li>
+            
         <li>HTML</li>
         <li>CSS</li>
         <li>JS
         <ul>
             <li> Leaflet</li>
-            <li> Esri JS</li>
-        <li>arcpy</li>
+            <li>ArcGIS API for JS</li>
+        </ul>
+ 
         <li>esri suite</li>
     </ul>
     <p>What I am working on improving on</p>
     <ul>
+        <li> Geoserver <li>
+        <li> PostGIS </li>
         <li>GeoDjango</li>
         <li>Earth Observation ML</li>
         <li>.Net</li>
