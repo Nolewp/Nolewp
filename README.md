@@ -4,12 +4,12 @@
     <h2>lets maps it!</h2>
     <p>What I currently work in</p>
     <ul>
-        <li>Python
+        <li>Python</li>
         <ul>
             <li> anaconda </li>
             <li>arcpy</li>
         </ul>
-        </li>
+        
             
         <li>HTML</li>
         <li>CSS</li>
