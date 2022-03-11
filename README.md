@@ -13,7 +13,7 @@
             
         <li>HTML</li>
         <li>CSS</li>
-        <li>JS
+        <li>JS</li>
         <ul>
             <li> Leaflet</li>
             <li>ArcGIS API for JS</li>
