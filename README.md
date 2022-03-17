@@ -22,13 +22,14 @@
     <li>JS</li>
     <ul>
         <li>Leaflet</li>
-        <li>ArcGIS API for JS</li>
         <li>NPM</li>
     </ul>
     <li>ESRI suite</li>
 </ul>
 <p>Tools and frameworks I am working on exploring further</p>
 <ul>
+    <li> GDAL </li>
+    <li>ArcGIS API for JS</li>
     <li>GeoDjango</li>
     <li>Geoserver</li>
     <li>PostGIS</li>
