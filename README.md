@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <body>
     <h1>Hello</h1>
-    <h3>I am a aspring geospatial developer, current problem solver and geospatial tech.</h3>
+    <h3>I am a aspring developer, current problem solver and geospatial tech.</h3>
 <p>Current OS</p>
 <ul>
     <li>Microsoft and linux</li>
@@ -30,7 +30,7 @@
 <ul>
     <li> GDAL </li>
     <li>ArcGIS API for JS</li>
-    <li>GeoDjango</li>
+    <li>ASP.Net Core</li>
     <li>Geoserver</li>
     <li>PostGIS</li>
 </ul>
