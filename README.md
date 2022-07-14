@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="style.css">
 <body>
     <h1>Hello</h1>
-    <h3>I am a aspring developer, current problem solver and geospatial tech.</h3>
+    <h3>I am a programmer, problem solver and Geospatial Analyst.</h3>
 <p>Current OS</p>
 <ul>
     <li>Microsoft and linux</li>
