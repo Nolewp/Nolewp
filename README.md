@@ -25,6 +25,7 @@
         <li>NPM</li>
     </ul>
     <li>ESRI suite</li>
+    <li>Webpack</li>
 </ul>
 <p>Tools and frameworks I am working on exploring further</p>
 <ul>
