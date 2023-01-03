@@ -29,7 +29,7 @@
 </ul>
 <p>Tools and frameworks I am working on exploring further</p>
 <ul>
-    <li>GDAL </li>
+    <li>PSQL</li>
     <li>C# </li>
     <li>ArcGIS API for JS</li>
     <li>ASP.Net Core</li>
