@@ -27,7 +27,7 @@
 - **ESRI Suite**
   - ArcGIS Pro
   - ArcGIS Portal/Webserver 11.3
-- **Juypter Note Books**
+- **Juypter Notebook**
 - **Webpack**
 - **C#**
 
