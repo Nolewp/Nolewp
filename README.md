@@ -4,9 +4,9 @@
 
 ---
 
-### 🌐 Current OS
-- Microsoft Windows
-- Linux
+### 🌐 Typical OS
+- Microsoft Windows\WSL Ubuntu
+- Linux Ubuntu 
 
 ---
 
@@ -19,20 +19,19 @@
   - Anaconda
   - Arcpy
 - **JavaScript**
+  - ArcGIS API for JavaScript
   - Leaflet
   - NPM
 - **ESRI Suite**
+  - ArcGIS Pro
+  - ArcGIS Portal/Webserver 11.3
+- **Juypter Note Books**
 - **Webpack**
+- **C#**
 
 ---
 
-### 🚀 Tools and Frameworks I’m Exploring Further
-- **PostgreSQL (PSQL)**
-- **C#**
-- **ArcGIS API for JavaScript**
-- **ASP.NET Core**
-- **Geoserver**
-- **PostGIS**
+
 
 ---
 
