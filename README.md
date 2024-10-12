@@ -20,7 +20,7 @@
   - Arcpy
 - **JavaScript**
   - ArcGIS API for JavaScript
-  - Leaflet
+  - [Leaflet](https://github.com/Nolewp/weather)
   - NPM
 - **ESRI Suite**
   - ArcGIS Pro
