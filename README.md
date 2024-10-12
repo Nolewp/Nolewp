@@ -2,6 +2,8 @@
 
 ### I am a Programmer, Problem Solver, and GIS Systems Analyst.
 
+#### I’m passionate about automating tedious, click-heavy workflows and equipping end users with powerful, efficient tools. I also specialize in large-scale ETL processes to ensure seamless data continuity across systems.
+
 ---
 
 ### 🌐 Typical OS
@@ -19,7 +21,7 @@
   - Anaconda
   - Arcpy
 - **JavaScript**
-  - ArcGIS API for JavaScript
+  - [ArcGIS API for JavaScript](https://nolewp.github.io/esri-dive/)
   - [Leaflet](https://nolewp.github.io/weather/)
   - NPM
 - **ESRI Suite**
